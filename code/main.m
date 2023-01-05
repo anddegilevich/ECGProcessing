@@ -311,3 +311,7 @@ legend('Pathology', 'Pathology', 'Correlation')
 ylim([-1 1])
 grid on
 title('P-P')
+
+clear class classes cn cnMax corrLimit cp cpMax i ind0 ind1 ipd0 ipd0 ipd1
+clear l marker markers n0 n1 nQRS p0 p1 QRS QRS_n0 QRS_n1 QRS_p0 QRS_p1
+clear SMax tc x
