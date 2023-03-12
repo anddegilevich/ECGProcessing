@@ -1,6 +1,6 @@
 # ECG Processing
 
-## About repository
+## About
 
 <p><b>ECG Processing</b> contains different methods for processing electrocardiosignal using MATLAB.</p>
 <p>The following processing procedures are presented:</p>
